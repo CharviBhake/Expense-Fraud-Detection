@@ -1,0 +1,46 @@
+employee_id,name,department,role,manager_id,join_date
+1,Donald Walker,Engineering,Analyst,25,2024-06-06
+2,Stephanie Miller,Operations,Analyst,30,2025-01-05
+3,Daniel Wagner,Marketing,Senior Associate,,2023-02-16
+4,Matthew Gardner,Procurement,Analyst,9,2020-10-03
+5,Rhonda Smith,Legal,Analyst,,2021-12-01
+6,Gina Moore,Engineering,Analyst,26,2025-06-06
+7,Brandon Davis,Procurement,Senior Associate,,2026-05-04
+8,Renee Blair,Procurement,Analyst,7,2025-09-05
+9,Jamie Arnold,Procurement,Associate,7,2023-10-24
+10,Shannon Ray,Consulting,Senior Associate,,2025-07-28
+11,Darren Roberts,Sales,Manager,,2024-10-27
+12,Brian Ramirez,Marketing,Senior Associate,,2021-01-27
+13,Jacob Clark,HR,Analyst,22,2024-05-29
+14,Maria Lynch,Finance,Director,,2022-03-13
+15,Carla Gray,HR,Analyst,22,2021-08-15
+16,Kristin Cohen,Legal,Analyst,,2026-07-14
+17,Crystal Johnson,HR,Senior Associate,36,2025-08-26
+18,Daniel Hahn,Sales,Senior Associate,11,2022-06-28
+19,Matthew Foster,Procurement,Analyst,45,2025-11-08
+20,Derek Wright,Legal,Analyst,,2026-01-30
+21,Kevin Hurst,Operations,Manager,,2023-12-18
+22,Zachary Hicks,HR,Senior Associate,36,2022-12-29
+23,Brian Burton,Engineering,Analyst,25,2021-02-21
+24,Arthur James,Finance,Manager,40,2025-05-07
+25,Tricia Valencia,Engineering,Manager,,2026-07-28
+26,Melanie Herrera,Engineering,Associate,25,2020-08-31
+27,Ashley Graham,Consulting,Senior Associate,,2022-03-13
+28,Sherri Baker,HR,Analyst,17,2023-04-27
+29,Thomas Harrell,HR,Analyst,17,2023-08-07
+30,Lisa Hernandez,Operations,Senior Associate,21,2022-05-21
+31,Paula Moreno,Engineering,Senior Associate,25,2025-03-03
+32,Alec Hickman,Marketing,Associate,3,2020-08-07
+33,Elizabeth Brown,Finance,Analyst,24,2025-11-13
+34,Angelica Tucker,Legal,Analyst,,2025-11-11
+35,Pamela Anderson,Procurement,Analyst,7,2021-01-04
+36,Deborah Brennan,HR,Manager,,2023-06-13
+37,Joshua Blair,Sales,Analyst,38,2023-02-19
+38,Zachary Santos,Sales,Manager,,2021-10-20
+39,Barbara Walker,Legal,Analyst,,2023-03-23
+40,Crystal Robinson,Finance,Senior Manager,14,2022-08-16
+41,Crystal Whitehead,HR,Analyst,22,2021-01-08
+42,David Caldwell,Consulting,Associate,27,2025-10-02
+43,Timothy Duncan,Consulting,Analyst,27,2021-11-18
+44,Rhonda Lee,Marketing,Analyst,3,2023-06-07
+45,Jeff Owens,Procurement,Associate,7,2021-03-06

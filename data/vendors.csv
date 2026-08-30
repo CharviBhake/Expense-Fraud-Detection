@@ -1,0 +1,26 @@
+vendor_id,vendor_name,category
+1,MakeMyTrip Corporate,Travel
+2,ClearTrip Biz,Travel
+3,Yatra Business,Travel
+4,Zomato for Business,Meals & Entertainment
+5,Swiggy Genie,Meals & Entertainment
+6,The Leela Catering,Meals & Entertainment
+7,AWS,Software & Subscriptions
+8,Microsoft Azure,Software & Subscriptions
+9,Adobe,Software & Subscriptions
+10,Slack,Software & Subscriptions
+11,Zoom,Software & Subscriptions
+12,Notion,Software & Subscriptions
+13,Staples India,Office Supplies
+14,Amazon Business,Office Supplies
+15,Office Depot,Office Supplies
+16,Ferns N Petals Corporate,Client Gifts
+17,Taj Hotels,Accommodation
+18,OYO Business,Accommodation
+19,Marriott Corporate,Accommodation
+20,Uber for Business,Ground Transport
+21,Ola Corporate,Ground Transport
+22,Coursera Business,Conference & Training
+23,Eventbrite,Conference & Training
+24,Udemy Business,Conference & Training
+25,Local Vendor,Miscellaneous
